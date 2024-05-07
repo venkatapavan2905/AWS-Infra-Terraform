@@ -1,3 +1,10 @@
 region-name  = "ap-south-1"
 vpc-name = "Multi-tier-vpc"
 vpc-cidr-block = "10.0.0.0/16"
+web-tier-cidr1 = "10.0.1.0/24"
+web-tier-cidr2 = "10.0.2.0/24"
+web-tier-subnet1 = "Multi-tier-web-subnet1"
+web-tier-subnet2 = "Multi-tier-web-subnet2"
+az-1 = "ap-south-1a"
+az-2 = "ap-south-1b"
+
